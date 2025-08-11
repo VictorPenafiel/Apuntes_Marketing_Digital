@@ -1,9 +1,4 @@
-Competencias básicas de los especialistas en marketing digital y comercio electrónico
-Estado: Traducido automáticamente del Inglés
-Traducido automáticamente del Inglés
 
-Las habilidades que obtendrá al completar el certificado de Marketing digital y Comercio electrónico de Google se utilizan en muchos puestos de nivel inicial de Marketing digital y Comercio electrónico. Esta lectura proporciona una visión general de los temas del programa del certificado y los relaciona con ejemplos de requisitos laborales.
-Comparación de las competencias básicas en diferentes funciones
 
 Se requieren competencias similares para los puestos de marketing digital y comercio electrónico. Sin embargo, estas habilidades se aplican a menudo de diferentes maneras. La siguiente tabla le da una idea de cómo las responsabilidades laborales pueden diferir ligeramente entre los puestos de entrada en el marketing digital y el comercio electrónico.
 

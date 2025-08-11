@@ -1,13 +1,4 @@
 
-
-## Un embudo de marketing es una representación visual del proceso a través del cual las personas pasan de conocer una marca por primera vez a convertirse en clientes leales. 
-
-
-embudo que tiene cuatro etapas: conciencia ,
-consideración, conversión y lealtad.
-En la parte superior del embudo está la etapa de toma de conciencia. 
-
-
 ¿Qué es un punto de contacto?
 Estado: Traducido automáticamente del Inglés
 Traducido automáticamente del Inglés

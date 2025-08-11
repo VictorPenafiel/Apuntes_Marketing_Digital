@@ -1,23 +1,28 @@
-Del embudo de marketing tradicional al embudo de marketing digital
-Estado: Traducido automáticamente del Inglés
-Traducido automáticamente del Inglés
 
- Un embudo de marketing es una forma poderosa de que las empresas concentren y coordinen sus esfuerzos de marketing. Para sacar el máximo partido de un embudo de marketing, las empresas deben optimizar su trabajo en cada etapa del embudo para alcanzar los resultados deseados.
 
-El vídeo sobre el embudo de marketing de este curso le presenta un diseño de embudo sencillo y generalizado con cuatro etapas:
+### Un embudo de marketing es una forma poderosa de que las empresas concentren y coordinen sus esfuerzos de marketing. 
 
-    Concienciación
+## Un embudo de marketing es una representación visual del proceso a través del cual las personas pasan de conocer una marca por primera vez a convertirse en clientes leales. 
 
-    Consideración
+embudo que tiene cuatro etapas: 
 
-    Conversión
+### concienciación 
+cliente potencial se encuentra con su marca por primera vez.
 
-    Fidelización
+### consideración
+Es la fase en la que se llega a conocerle. Es cuando la gente empieza a explorar su negocio y a averiguar qué le diferencia de la competencia. 
+En esta fase, algunos clientes potenciales se convertirán en leads.
+Un lead es un cliente potencial que ha interactuado con una marca y ha compartido información personal, como una dirección de correo electrónico. 
 
-También aprendió que existen múltiples versiones de embudos de marketing. Los embudos de marketing se han revisado a lo largo del tiempo para reflejar los cambios en los negocios, la tecnología e incluso el comportamiento de los clientes. Esta lectura ofrece una breve historia de la evolución del embudo.
-Evolución del embudo de marketing
+conversión y lealtad.
 
-¿Qué relación tiene el tofu con un embudo de comercialización? En realidad, ToFU (no el producto de la cuajada de judías) es un acrónimo de Top of Funnel (parte superior del embudo). También existen MoFU y BoFU que significan Middle of Funnel y Bottom of Funnel, respectivamente. Al utilizar cualquier embudo, el objetivo es obtener los resultados más deseables para ToFU, MoFU y BoFU. Al leer sobre los diferentes diseños de embudo, también puede pensar en cómo los resultados deseados ToFU, MoFU y BoFU para cada uno son similares o diferentes.
+
+
+ToFU Top of Funnel (parte superior del embudo).
+MoFU Middle of Funnel
+BoFU Bottom of Funnel
+
+Al utilizar cualquier embudo, el objetivo es obtener los resultados más deseables para ToFU, MoFU y BoFU. Al leer sobre los diferentes diseños de embudo, también puede pensar en cómo los resultados deseados ToFU, MoFU y BoFU para cada uno son similares o diferentes.
 Embudo de ventas tradicional
 
 Los embudos probablemente tomaron forma primero como embudos de ventas. Un embudo de ventas sencillo tiene etapas de concienciación, interés, decisión y acción, como se representa en el gráfico siguiente.
