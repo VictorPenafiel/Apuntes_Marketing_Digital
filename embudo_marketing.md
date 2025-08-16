@@ -1,10 +1,9 @@
 
-
 ### Un embudo de marketing es una forma poderosa de que las empresas concentren y coordinen sus esfuerzos de marketing. 
 
 ## Un embudo de marketing es una representación visual del proceso a través del cual las personas pasan de conocer una marca por primera vez a convertirse en clientes leales. 
 
-embudo que tiene cuatro etapas: 
+## embudo que tiene cuatro etapas: 
 
 ### concienciación 
 cliente potencial se encuentra con su marca por primera vez.
@@ -14,9 +13,15 @@ Es la fase en la que se llega a conocerle. Es cuando la gente empieza a explorar
 En esta fase, algunos clientes potenciales se convertirán en leads.
 Un lead es un cliente potencial que ha interactuado con una marca y ha compartido información personal, como una dirección de correo electrónico. 
 
-conversión y lealtad.
+### conversión 
+también conocida como etapa de decisión o compra, es cuando alguien realiza una compra y se convierte en cliente
+Esto incluye todo, desde descripciones precisas de los productos hasta un proceso de pago sencillo y una
+política de devoluciones clara.
+Los anuncios bien posicionados y centrados en el producto y
+un sitio web claramente organizado también pueden ser persuasivos. 
 
-
+### Fidelización o lealtad.
+consiste en crear una excelente experiencia para el cliente durante y después de la compra.
 
 ToFU Top of Funnel (parte superior del embudo).
 MoFU Middle of Funnel
